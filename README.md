@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="./Klane-Engr-profile-animated.gif"
-    alt="Klane-Engr Developer Profile"
+    src="./Nikland-Tejam-profile-animated.gif"
+    alt="Nikland Tejam Developer Profile"
     width="100%"
   />
 </p>
